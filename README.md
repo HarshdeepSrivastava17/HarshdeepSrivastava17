@@ -1,18 +1,3 @@
-Hay, I'am Harshdeep 👋  
-AI enthusiast | Problem Solver | Code Craftsman  
-
-Building intelligent systems with ML 🤖  
-Solving DSA like puzzles 🧩  
-Turning coffee into code ☕  
-
-AI Student | ML Explorer | DSA Lover  
-Building smart things with code 💻  
-Learning something new every day 🚀
-
-Always learning. Always building. Always improving.
-
-
-
 # 💫 About Me:
 Hay, I'am Harshdeep 👋  <br>AI enthusiast | Problem Solver | Code Craftsman  <br><br>Building intelligent systems with ML 🤖  <br>Solving DSA like puzzles 🧩  <br>Turning coffee into code ☕  <br><br>AI Student | ML Explorer | DSA Lover  <br>Building smart things with code 💻  <br>Learning something new every day 🚀<br><br>Always learning. Always building. Always improving.
 
