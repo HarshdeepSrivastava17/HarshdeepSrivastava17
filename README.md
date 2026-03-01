@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hay, I'am Harshdeep 👋  <br>AI enthusiast | Problem Solver | Code Craftsman  <br><br>Building intelligent systems with ML 🤖  <br>Solving DSA like puzzles 🧩  <br>Turning coffee into code ☕  <br><br>AI Student | ML Explorer | DSA Lover  <br>Building smart things with code 💻  <br>Learning something new every day 🚀<br><br>Always learning. Always building. Always improving.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdeepsrivastava17) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/harshdeep-srivastava) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrwinterdemon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdeepsrivastava01@gmail.com) 
 
